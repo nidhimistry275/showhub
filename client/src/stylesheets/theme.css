@@ -1,0 +1,60 @@
+:root {
+    --colour-primary: #c03d59;
+    --colour-secondary: #e6b412;
+
+}
+
+.bg-primary {
+    background-color: var(--colour-primary);
+    /* background-image: url('D:/Project/sheymovies-udemy-master/client/public/Frame1.jpg'); */
+} 
+
+.bg-secondary {
+    background-color: var(--colour-secondary);
+}
+
+.bg-error{
+    background-color: #ff0000;
+}
+
+.bg-warning{
+    background-color: #a2840e;
+}
+
+.bg-white{
+    background-color: white;
+}
+
+.bg-black{
+    background-color: black;
+}
+
+.text-primary {
+    color: var(--colour-primary) !important;
+}
+
+.text-secondary {
+    color: var(--colour-secondary);
+}
+
+.text-black{
+    color: #000;
+}
+.text-red{
+    color:#c03d59;
+}
+.text-blur{
+color: #c2a7ad;
+}
+.text-white{
+    color: #fff;
+}
+
+.border-primary {
+    border-color: var(--colour-primary);
+}
+
+.border-secondary {
+    border-color: var(--colour-secondary);
+}
+

@@ -1,3 +1,34 @@
+# ShowHub: Movie Booking System 🎬
+
+ShowHub is a full-stack web application developed as a part of an internship project, allowing users to search, book, and manage movie tickets seamlessly. This application is built on the MERN stack (MongoDB, Express.js, React.js, Node.js) and is optimized for an efficient and user-friendly experience.
+
+## Table of Contents
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Setup Instructions](#setup-instructions)
+- [Usage](#usage)
+- [Future Enhancements](#future-enhancements)
+- [Contributors](#contributors)
+
+## Features
+- **Movie Search & Discovery**: Users can search for movies, view show details, and check real-time availability.
+- **Theater Management**: Theater owners can manage 2-7 screens per theater, along with show timings.
+- **Secure Payments**: Integrated with Stripe for secure and seamless transactions.
+- **User Roles**: Separate user and administrator roles to ensure efficient content management.
+- **Responsive Design**: Optimized for various devices and screen sizes.
+
+## Technologies Used
+- **Frontend**: React.js, Tailwind CSS, JavaScript
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB (via MongoDB Atlas)
+- **Payment Integration**: Stripe API for payment processing
+- **State Management**: Redux
+
+## Setup Instructions
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/showhub.git
+
 ## **Data Dictionary:**
 ![image](https://github.com/user-attachments/assets/47efe8be-8667-4518-be43-9237b8d6cd64)
 

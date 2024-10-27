@@ -7,7 +7,6 @@ ShowHub is a full-stack web application developed as a part of a project, allowi
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
-- [Future Enhancements](#future-enhancements)
 - [Data Dictionary](#data-dictionary)
 - [Outputs](#outputs)
 
@@ -29,6 +28,28 @@ ShowHub is a full-stack web application developed as a part of a project, allowi
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/showhub.git
+
+2. **Install dependencies**:
+   ```bash
+   cd showhub/server
+   cd showhub/Client
+   npm install
+
+3. Create a .env file in the server directory with the following variables:
+   ```bash
+   MONGO_URI=<your-mongodb-uri>
+   STRIPE_SECRET_KEY=<your-stripe-secret-key>
+
+4. Start the Application:
+   ```bash
+   npm run dev
+
+5. Access the Application:
+   - Go to http://localhost:3000 to use ShowHub.
+  
+## **Usage**
+- **For Users**: Sign up, browse available movies, choose seats, and securely pay.
+- **For Theater Owners**: Add or manage shows and screen timings, view bookings, and manage theater data.
 
 ## **Data Dictionary:**
 ![image](https://github.com/user-attachments/assets/47efe8be-8667-4518-be43-9237b8d6cd64)

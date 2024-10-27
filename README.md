@@ -1,6 +1,6 @@
 # ShowHub: Movie Booking System 🎬
 
-ShowHub is a full-stack web application developed as a part of an internship project, allowing users to search, book, and manage movie tickets seamlessly. This application is built on the MERN stack (MongoDB, Express.js, React.js, Node.js) and is optimized for an efficient and user-friendly experience.
+ShowHub is a full-stack web application developed as a part of a project, allowing users to search, book, and manage movie tickets seamlessly. This application is built on the MERN stack (MongoDB, Express.js, React.js, Node.js) and is optimized for an efficient and user-friendly experience.
 
 ## Table of Contents
 - [Features](#features)
@@ -8,7 +8,8 @@ ShowHub is a full-stack web application developed as a part of an internship pro
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Future Enhancements](#future-enhancements)
-- [Contributors](#contributors)
+- [Data Dictionary](#data-dictionary)
+- [Outputs](#outputs)
 
 ## Features
 - **Movie Search & Discovery**: Users can search for movies, view show details, and check real-time availability.

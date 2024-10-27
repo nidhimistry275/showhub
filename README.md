@@ -1,7 +1,7 @@
-Data Dictionary
+# **Data Dictionary:**
 ![image](https://github.com/user-attachments/assets/47efe8be-8667-4518-be43-9237b8d6cd64)
 
-Outputs:
+# **Outputs:**
 ![image](https://github.com/user-attachments/assets/6293bb87-6a10-4bd8-bbdd-706e0807df51)
 ![image](https://github.com/user-attachments/assets/83902f70-f601-4724-a358-5fba47a54311)
 ![image](https://github.com/user-attachments/assets/604521ef-d1f4-4add-a19b-cfbbed07640f)

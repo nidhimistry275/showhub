@@ -8,7 +8,7 @@ ShowHub is a full-stack web application developed as a part of a project, allowi
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Data Dictionary](#data-dictionary)
-- [Outputs](#outputs)
+- [Output](#output)
 
 ## Features
 - **Movie Search & Discovery**: Users can search for movies, view show details, and check real-time availability.
